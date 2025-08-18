@@ -24,7 +24,7 @@ CSS3 – styling
 
 Clone this repository:
 
-git clone https://github.com/YourUsername/Amazon-clone-website.git
+git clone https://github.com/Susmita75/Amazon-clone-website.git
 
 
 ### Open the folder in VS Code

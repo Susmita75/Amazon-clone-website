@@ -26,7 +26,7 @@ CSS3 – for styling and layout
 
 Clone this repository:
 
-git clone https://github.com/Susmita75/AMAZON CLONE WEBSITE.git
+git clone https://github.com/Susmita75/Amazon-clone-website.git
 
 
 ### Open the folder in VS Code
@@ -34,7 +34,7 @@ git clone https://github.com/Susmita75/AMAZON CLONE WEBSITE.git
 Run the index.html file in any browser
 
  ## 🌍 Live Demo
-👉 [Click here to view the Amazon Clone Website](https://Susmita75.github.io/AMAZON CLONE WEBSITE)
+👉 [Click here to view the Amazon Clone Website](https://Susmita75.github.io/Amazon-clone-website)
 
 ## 📌 Future Improvements
 

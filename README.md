@@ -33,6 +33,9 @@ git clone https://github.com/Susmita75/Amazon-clone-website.git
 
 Run the index.html file in any browser
 
+ ## 🌍 Live Demo
+👉 [Click here to view the Amazon Clone Website](https://Susmita75.github.io/Amazon-clone-website)
+
 ## 📌 Future Improvements
 
 Add JavaScript for interactivity (e.g., carousel, product slider).

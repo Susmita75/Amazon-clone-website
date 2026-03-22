@@ -22,17 +22,6 @@ HTML5 – for website structure
 
 CSS3 – for styling and layout
 
-## 🚀 How to Run the Project
-
-Clone this repository:
-
-git clone https://github.com/Susmita75/Amazon-clone-website.git
-
-
-### Open the folder in VS Code
-
-Run the index.html file in any browser
-
 ## 📌 Future Improvements
 
 Add JavaScript for interactivity (e.g., carousel, product slider).
